@@ -1,6 +1,6 @@
 # Aplicação de Floresta aleartória (Machine Learning)
 
-### Este projeto serve para usar os dados dos passageiros do Titanic (nome, idade, preço da passagem, etc) para tentar prever quem vai sobreviver e quem vai morrer.
+### Este projeto serve para usar os dados dos passageiros do Titanic (nome, idade, preço da passagem, etc) para tentar prever quem vai sobreviver ou não.
 
 ## train.csv
 
